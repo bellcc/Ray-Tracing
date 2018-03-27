@@ -1,0 +1,17 @@
+*.VC.db
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+*.suo
+*.obj
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+
+Release/
+Debug/
+
+*/Release/*
+*/Debug/*
